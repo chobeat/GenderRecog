@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.swinglabs:pdf-renderer:1.0.5:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.swinglabs/pdf-renderer/jars/pdf-renderer-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.swinglabs/pdf-renderer/docs/pdf-renderer-1.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.swinglabs/pdf-renderer/srcs/pdf-renderer-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
